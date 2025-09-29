@@ -1,5 +1,5 @@
-# Text Data Wrangling & Pre-processing Project (FIT5196 – Assessment 1)
-This project focused on extracting, cleaning, and transforming semi-structured text data into structured formats suitable for downstream NLP tasks. It involved multiple stages of data wrangling, regular expression–based parsing, and text pre-processing for feature engineering.
+# Text Data Wrangling & Pre-processing Project
+In project, me and my groupmate focused on extracting, cleaning, and transforming semi-structured text data into structured formats suitable for downstream NLP tasks. It involved multiple stages of data wrangling, regular expression–based parsing, and text pre-processing for feature engineering.
 ## Key Contributions:
 
 ### Parsing Raw Text (Task 1):
