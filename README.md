@@ -43,7 +43,7 @@ In project, me and my groupmate focused on extracting, cleaning, and transformin
 
 - Collaborative Workflow (Colab, Git version history, documentation)
 
-### Outcome:
+## Outcome:
 Achieved a total score of 99/100 by marker for transforming raw semi-structured text into clean datasets ready for database integration and NLP modelling, strengthening my skills in end-to-end text preprocessing pipelines.
 
 <img width="329" height="144" alt="Screenshot 2025-09-30 at 11 53 11" src="https://github.com/user-attachments/assets/487eb3de-fb13-4838-a35f-c17e86bced17" />
