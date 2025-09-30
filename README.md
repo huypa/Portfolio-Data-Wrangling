@@ -4,7 +4,7 @@ In project, me and my groupmate focused on extracting, cleaning, and transformin
 
 ### Parsing raw XML text file (Task 1):
 
-- Extracted trademark assignment records from semi-structured text files (XML) named *Group021.txt* using Python (re, json, pandas).
+- Extracted trademark assignment records from semi-structured text files (XML) named ***Group021.txt*** using Python (re, json, pandas).
 
 - Designed and applied regular expressions to capture complex attributes (e.g., reel/frame numbers, assignors/assignees, legal entity descriptions).
 
@@ -18,7 +18,7 @@ In project, me and my groupmate focused on extracting, cleaning, and transformin
 
 ### Text pre-processing from Youtube comments(Task 2):
 
-- Imported and combined YouTube comments across multiple worksheets in Excel named *Group021_task2.xlxs*, ensuring removal of duplicates.
+- Imported and combined YouTube comments across multiple worksheets in Excel named ***Group021_task2.xlxs***, ensuring removal of duplicates.
 
 - Extracted and cleaned the comment data (textOriginal field) includes: handled emoji removal, lower-casing, and language detection (using langdetect).
 
