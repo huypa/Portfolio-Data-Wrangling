@@ -11,6 +11,9 @@ In project, me and my groupmate focused on extracting, cleaning, and transformin
 - Normalised date formats (YYYY-MM-DD) and handled missing/ambiguous values through systematic assumptions.
 
 - Converted the processed data into structured JSON output following strict schema requirements.
+Complete report from the task progress: https://github.com/huypa/Portfolio-Data-Wrangling/blob/main/021_ass1/task1_021.pdf
+<img width="820" height="311" alt="Screenshot 2025-09-30 at 11 05 53" src="https://github.com/user-attachments/assets/48d1e7cd-7e44-4cd3-ae60-5d6ecf9742a2" />
+
 
 ### Text Pre-processing (Task 2):
 
