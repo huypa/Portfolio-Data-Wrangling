@@ -24,12 +24,6 @@ In project, me and my groupmate focused on extracting, cleaning, and transformin
 
 - Produced deliverables including channel comment statistics (.csv), vocabulary lists (.txt), and sparse representations (.txt).
 
-### Version Control & Documentation (Task 3):
-
-- Maintained a development history log, documenting incremental progress, changes, and collaborative efforts.
-
-- Ensured reproducibility by providing both Jupyter Notebooks (.ipynb) with printed outputs and Python scripts (.py) for plagiarism checking.
-
 ### Skills & Tools Used:
 
 - Python (Regex, Pandas, JSON, NLTK, Langdetect)
