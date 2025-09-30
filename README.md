@@ -2,7 +2,7 @@
 In project, me and my groupmate focused on extracting, cleaning, and transforming semi-structured text data into structured formats suitable for database design and downstream NLP tasks. It involved multiple stages of data wrangling, regular expression–based parsing, and text pre-processing for feature engineering.
 ## Key Contributions:
 
-### Parsing Raw Text from XML text file (Task 1):
+### Parsing raw XML text file (Task 1):
 
 - Extracted trademark assignment records from semi-structured text files (XML) using Python (re, json, pandas).
 
@@ -16,7 +16,7 @@ In project, me and my groupmate focused on extracting, cleaning, and transformin
 <img width="820" height="311" alt="Screenshot 2025-09-30 at 11 05 53" src="https://github.com/user-attachments/assets/48d1e7cd-7e44-4cd3-ae60-5d6ecf9742a2" />
 
 
-### Text Pre-processing from Youtube comments(Task 2):
+### Text pre-processing from Youtube comments(Task 2):
 
 - Imported and combined YouTube comments across multiple worksheets in Excel, ensuring removal of duplicates.
 
@@ -31,7 +31,7 @@ In project, me and my groupmate focused on extracting, cleaning, and transformin
 *Complete task progress report: https://github.com/huypa/Portfolio-Data-Wrangling/blob/main/021_ass1/task2_021.pdf*
 <img width="480" height="462" alt="Screenshot 2025-09-30 at 11 23 36" src="https://github.com/user-attachments/assets/ba2ddb14-1a01-44b6-a711-34bec4121391" />
 
-### Skills & Tools Used:
+### Skills & tools used:
 
 - Python (Regex, Pandas, JSON, NLTK, Langdetect)
 
