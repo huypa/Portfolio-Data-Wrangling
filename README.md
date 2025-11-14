@@ -28,7 +28,7 @@ In project, me and my groupmate focused on extracting, cleaning, and transformin
 
 - Produced deliverables including channel comment statistics (.csv), meaningful vocabulary lists (.txt), and sparse representations (.txt).
 
-*Complete task progress report: https://github.com/huypa/Portfolio-Data-Wrangling/blob/main/021_ass1/task2_021.pdf*
+*Complete task progress report: [Link Here](https://github.com/huypa/Portfolio-Data-Wrangling/blob/main/021_ass1/task2_021.pdf)*
 <img width="480" height="462" alt="Screenshot 2025-09-30 at 11 23 36" src="https://github.com/user-attachments/assets/ba2ddb14-1a01-44b6-a711-34bec4121391" />
 
 ### Skills & tools used:
